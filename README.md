@@ -22,6 +22,6 @@ Guidelines:
 * The users must specify the sample size ($N$) using the slider control to observe how sample scale affects parameter estimates and $p$-values.
 * The outputs (R-squared metrics, diagnostic charts, estimated equation, ANOVA, and actionable guidance) will be displayed dynamically.
 
-This shiny app will be helpful to someone who has a time series dataset and needs help with model fitting and forecasting. Anyone needing to conduct time series analysis using an interactive tool can take advantage of this shiny app. If the users have a good theoretical understanding about time series analysis, they can take the maximum benefit from this app.
+This shiny app will be helpful to students, researchers, and data science learners who want an interactive learning application to understand linear regression assumptions, diagnostic plots, and model interpretations. 
 
 
